@@ -4,3 +4,9 @@ C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\bin\Release\NoCopyPas
 C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Release\NoCopyPaste.csproj.CoreCompileInputs.cache
 C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Release\NoCopyPaste.exe
 C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Release\NoCopyPaste.pdb
+C:\projetos_git\NoCopyPaste\NoCopyPaste\bin\Release\NoCopyPaste.exe.config
+C:\projetos_git\NoCopyPaste\NoCopyPaste\bin\Release\NoCopyPaste.exe
+C:\projetos_git\NoCopyPaste\NoCopyPaste\bin\Release\NoCopyPaste.pdb
+C:\projetos_git\NoCopyPaste\NoCopyPaste\obj\Release\NoCopyPaste.csproj.CoreCompileInputs.cache
+C:\projetos_git\NoCopyPaste\NoCopyPaste\obj\Release\NoCopyPaste.exe
+C:\projetos_git\NoCopyPaste\NoCopyPaste\obj\Release\NoCopyPaste.pdb
