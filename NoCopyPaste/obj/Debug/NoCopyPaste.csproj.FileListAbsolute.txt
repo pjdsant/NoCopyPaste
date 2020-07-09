@@ -1,0 +1,7 @@
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\bin\Debug\NoCopyPaste.exe.config
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\bin\Debug\NoCopyPaste.exe
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\bin\Debug\NoCopyPaste.pdb
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Debug\NoCopyPaste.csprojAssemblyReference.cache
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Debug\NoCopyPaste.csproj.CoreCompileInputs.cache
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Debug\NoCopyPaste.exe
+C:\Users\santos.11099\source\repos\NoCopyPaste\NoCopyPaste\obj\Debug\NoCopyPaste.pdb
